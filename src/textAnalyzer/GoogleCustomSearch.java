@@ -17,8 +17,8 @@ import com.google.gson.GsonBuilder;
 
 public class GoogleCustomSearch {
 	
-	final static String apiKey = "AIzaSyBGBF6beHoB0fMkk10mEbK5sZu9dvxPz74";
-	final static String customSearchEngineKey = "004890959816876717822:xeittyihsva";
+	final static String apiKey = "myapikey";
+	final static String customSearchEngineKey = "myenginekey";
 	final static  String searchURL = "https://www.googleapis.com/customsearch/v1?";
 	 
 	public static String makeSearchString(String qSearch, Integer start, Integer num)
