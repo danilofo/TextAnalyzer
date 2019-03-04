@@ -1,0 +1,62 @@
+ HardwareMobileVideogiochiSicurezzaIT ProManagerResellerRecupero DatiForumVideoBlogShopping Hardware Mobile Videogiochi Fotografia Sicurezza  Banda Larga Cinema Computer Portatili Finanza, Imprese e Mercati Gadget e Nuove Tecnologie Guide e Tutorial Internet & Social Trends Multimedia Scienza e Spazio Software e App Web Stampanti & Scanner TV & Proiettori Compatte Guide Mirrorless Obiettivi Reflex Software & App Videocamere Business Hardware Home Security Minacce Mobile Scenari Software Cloud Computing Communication ICT Security Networking Software Storage e Server Analytics Business Software Informatica e Business Mobility Printing Sicurezza Accordi Marketing Strategie Tecnologie Tendenze Turnover Business Hardware Home Security Minacce Mobile Scenari Software Case, Alimentatori e Dissipatori Hard Disk, SSD e NAS Monitor Networking PC Completi Processori Schede Madre e RAM Schede Video Tastiere e Mouse Console Console Portatili PC Smartphone e Tablet Shopping Hardware Shopping Videogiochi App Smartphone TabletHardwareProcessoriSchede Madre e RAMHard DiskSchede VideoMonitorAlimentatori e CaseTastiere e MousePc CompletiTi trovi in:Home PageHome PageSoftware e Applicazioni WebWindows 10 provato da oltre 1 milione di persone: primi datidiManolo De Agostini,14 ottobre, 201406:03Microsoft ha snocciolato alcune informazioni sulla versione Technical Preview di Windows 10. Quanti l'hanno scaricata, i feedback ricevuti e quante app sono state avviate.Microsoft ha annunciato cheoltre 1 milione di personeha preso parte alWindows Insider Programper scaricare e testare la versione Technical Preview diWindows 10. Per la casa di Redmond si tratta di un numero importante perché amplia la base dei feedback: dalle prove interne si passa a scenari d'uso reali, magari costanti, e questo faciliterà l'individuazione di possibili bug e la comprensione del gradimento del pubblico alle novità di Windows 10 - a proposito quali sono le vostre impressioni? Rispondete alsondaggio.
+Il programma Insider non è l'unico modo per ottenere Windows 10 Technical Preview - che si può scaricare anche da altre fonti - quindiprobabilmente il numero delle effettive installazioni è più alto. Ma poco importa. Quel che è rilevante è l'attività di testing da parte della gente comune. Anche a quel riguardo la casa di Redmond non può lamentarsi con oltre 200.000 feedback inviati attraverso l'applicazione Windows Feedback.
+
+Microsoft sottolinea inoltre comein tanti abbiano scelto di provare estensivamente Windows 10, installandolo su un PC piuttosto che su una macchina virtuale. Secondo i suoi dati solo il 36% delle installazioni della Technical Preview è avvenuta in una VM, il che lascia un 64% di "vere installazioni" e quindi la fiducia che si tratti di un feedback basato su un uso a di medio termine anziché per pochi minuti.
+"Un altro indicatore del fatto che abbiamo un uso continuo è il numero di app avviate su un dispositivo.Il 68% di voi usa più di sette applicazioni al giorno e alcuni persino molte di più.Abbiamo riscontrato che circa il 25% dei dispositivi con Windows 10 Technical Preview avvia oltre 26 app al giorno e il 5% arriva a 68!".
+Intanto sono ancora in molti a chiedersiil perché del passaggio da Windows 8 a Windows 10. Nonostante si sia parlato di possibili problemi con i vecchi software, per via di conflitti nel codice tra i nomi Windows 9, Windows 95 e Windows 98, forse c'è una spiegazione meno tecnica e più "filosofica". Tony Prophet, vicepresidente corporate Windows Marketing, ha infattiaffermatocheWindows 9 "è arrivato e se n'è andato".
+Windows 10 - galleria d'immaginiImmagini  - 12  Il dirigente probabilmente intendeva dire che i molti aggiornamenti a Windows 8 hanno indotto Microsoft a ritenere che Windows 9, nei fatti, esistesse già. Per questo si è passati a Windows 10, che tra l'altro in azienda non vedono come un mero miglioramento di Windows 8.1 bensì comeuna major release a tutti gli effetti.
+"Windows 10non sarà un miglioramento incrementale da Window 8.1. Windows 10 è un passo avanti concreto. Stiamo cercando di creare una sola piattaforma, un ecosistema che unisca molti dispositivi, dalle piccole soluzioni integrate per l'Internet delle cose, passando per i tablet e arrivando a telefoni, PC e infine l'Xbox", ha sottolineato Prophet.
+Follow Manolo De Agostini
+@mdeagostiniSegui Tom's Hardware su
+Facebook,Twitter,Google+Ti potrebbe interessare anche: 
+Stampa3DMark Fire Strike Ultra, il tuo PC va bene per giocare in 4K?SSD con nuovi controller SandForce 3000: chi li ha visti?I primi coloni di Marte potrebber...Internet è un diritto, ecco la b...Torneo Call of Duty Ghosts Tom's ...La Finlandia accusa Apple per la ...Paola Cavallero è Direttore Mark...Ethernet switch: sicurezza dal cu...NewBT entra nella rete franchisee...Da Avnet le soluzioni di sicurezz...Hacker italiani: bucate questo al...Nvidia: accelerazione di PhysX co...Digilo: mini computer per program...7 milioni di password Dropbox rub...Il rover lunare con Arduino è co...Visione a 360 gradi? Sì, con ing...La mano bionica italiana che si c...Esprinet risolve lo smaltimento c...Miocugino ha una fresa multifunzi...Il backup su cloud firmato Veeam ...Notizie dal web Commenti dei lettori (93)1/10avanti  12345678910punk3r14/10/2014 06:54+30 Windows 9 "è arrivato e se n'è andato"
+cosa è un orgasmo?Zofen14/10/2014 07:22+2 Sembra ben fatto questo Windows 10, vedremo con le prossime release...bannatissimo14/10/2014 07:23-89 Insider Program e Windows Feedback ... "bene bravi 7+"
+
+Che a Redmont abbiano riscoperto l'antica passione per l'utilizzo intensivo delle fotocopiatrici?
+
+Apple per Yosemite (OS X10.10) il 2 giugno scorso ha lanciato, parallelamente ai test degli sviluppatori, il suoOS X Beta Programche comprendeFeedback Assistant application:https://appleseed.apple.com/sp/betaprogram/
+
+Le beta pubbliche sono già state 6 e per quanto il numero di iscritti fosse stato inizialmente limitato ad un milione sembra che l'iscrizione, gratuita, non sia stata rifiutata a nessuno dei richiedenti.
+L'unica disponibilità ufficiale è quella dall'App Store, che è anche l'unica a consentire l'invio delle proprie impressioni d'uso con Feedback Assistant, ma di versioni pirata ne sono circolate a bizzeffe sia di queste 6 beta che di quelle in più a disposizione degli sviluppatori.
+
+Insomma, non solo Microsoft vuol pareggiare il numero di versione, ma pure i metodi di socializzazione dello sviluppo.
+Sempre "bene bravi 7+" ... ma fantasia ed originalità proprio sono sconosciute da quelle parti?pierdole14/10/2014 07:35-7 Windows 10 è una major release .Windows 10 è una major release .Windows 10 è una major release...
+forse se lo ripeto tante volte alla fine ci credo.Foglio14/10/2014 07:36+3 Io voglio sapere se hanno risolto i VERI problemi di Windows... Voglio sapere se hanno risolto il problema dell'ordine di caricamento dei servizi, della latenza di caricamento dei servizi e dell'integrità del registro di sistema...
+Il resto: le interfacce e/o i dispositivi sono proprio le ultime questioni...Kitamwhort14/10/2014 07:53+5 Io oramai lo uso come s.o primario ... É davvero ben fatto, certo ha qualche bug ma non sono così esagerati da impedirne l'utilizzo.
+Sinceramente però mi aspettavo qualcosa in più, soprattutto a livello grafico generale un cambiamento tipo come lo si ha avuto da winXp a vista/7 o come da win95 a XPrubino2514/10/2014 08:07+22  Originariamente inviata dabannatissimo
+Insider Program e Windows Feedback ... "bene bravi 7+"
+
+Che a Redmont abbiano riscoperto l'antica passione per l'utilizzo intensivo delle fotocopiatrici?
+
+Apple per Yosemite (OS X 10.10) il 2 giugno scorso ha lanciato, parallelamente ai test degli sviluppatori, il suo OS X Beta Program che comprende Feedback Assistant application:https://appleseed.ap...gram/
+
+Le beta pubbliche sono già state 6 e per quanto il numero di iscritti fosse stato inizialmente limitato ad un milione sembra che l'iscrizione, gratuita, non sia stata rifiutata a nessuno dei richiedenti.
+L'unica disponibilità ufficiale è quella dall'App Store, che è anche l'unica a consentire l'invio delle proprie impressioni d'uso con Feedback Assistant, ma di versioni pirata ne sono circolate a bizzeffe sia di queste 6 beta che di quelle in più a disposizione degli sviluppatori.
+
+Insomma, non solo Microsoft vuol pareggiare il numero di versione, ma pure i metodi di socializzazione dello sviluppo.
+Sempre "bene bravi 7+" ... ma fantasia ed originalità proprio sono sconosciute da quelle parti?
+
+
+Sbaglio o è da qualche anno che microsoft lo fa? Sicuramente da windows 7..Borat14/10/2014 08:14+1  Originariamente inviata daKitamwhort
+
+Sinceramente però mi aspettavo qualcosa in più, soprattutto a livello grafico generale un cambiamento tipo come lo si ha avuto da winXp a vista/7 o come da win95 a XP
+
+
+Concordo,a livello grafico non è per nulla fatto beneTheAuthorityOnCess14/10/2014 08:16-5 Hanno diffuso anche i dati di quante password hanno rastrellato?
+exedes14/10/2014 08:320 Questa frase mi e' oscura
+"Un altro indicatore del fatto che abbiamo un uso continuo è il numero di app avviate su un dispositivo. Il 68% di voi usa più di sette applicazioni al giorno e alcuni persino molte di più. Abbiamo riscontrato che circa il 25% dei dispositivi con Windows 10 Technical Preview avvia oltre 26 app al giorno e il 5% arriva a 68!".
+
+app modern ui desktop o la somma di entrambi ?
+quella cosa dei 68 app al giorno la trovo ridicola ..1/10avanti  12345678910Devi essere collegato scrivere un commento!Accesso utentiNome utente:Password:oppure registrati
+Guarda anche:Software e Applicazioni Web,Windows,Repubblica,MicrosoftArticoli più lettiI Flop tecnologici del 2014Top 10: i video del Tom's Network più visti del 2014Chromebook: chi lo deve comprare e perchéLe notizie più lette del 2014 su Tom's HardwareGli articoli e recensioni più lette del 2014 Tom's Hardware nel mondoUSA
+FINLANDIA
+FRANCIA
+GERMANIA
+DANIMARCA
+NORVEGIA
+RUSSIA
+TURCHIA
+UK & IRLANDASegui Tom's Hardware!       Cerca nel sito:CercaInformazioni su Tom's HardwareADVERTISING|PRIVACY|CHI SIAMO|CONTATTACI - REDAZIONE|NEWSLETTER|FEED RSSpowered by
+
+Copyright © 2014 - 3Labs Srl - APurchCompany. Tutti i diritti riservati.
+P.Iva 04146420965 - Testata registrata presso il Tribunale di Milano, nr. 285 del 9/9/2013Clicca per i dettagli

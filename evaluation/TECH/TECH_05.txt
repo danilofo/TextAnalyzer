@@ -1,0 +1,56 @@
+IL NOSTRO NETWORK:Indigo CommunicationTechnopolisictBusiness.itFutureMagazineMenuNewsHardwareSoftwareServiziMercatiFocusApplicazioniBig DataBusiness IntelligenceCloud e VirtualizzazioneData CenterGestione DocumentaleMobilityNetworkingPrivacyResource ManagementSicurezzaSistemi OperativiStorageScenariStorie di successoSpunti di vistaCanaleLavoroProfessioniCarriereCorsiEventiTi trovi in:Home PageNewsWeb e shopping online: attenzione alle truffe di NataleFortinet ed Eset mettono in guardia dai rischi che incomberanno sugli internauti durante le prossime festività natalizie, mentre si naviga o si fanno acquisti online. Dai malware, alle truffe, ai finti bigliettini di auguri.Pubblicato il 06 dicembre 2014 daRedazione
+Anche il Natale ha un “lato oscuro”. Il periodo magico che anticipa e celebra le festività di dicembre e dei primi di gennaio racchiude, tradizionalmente, unincremento dei tentativi di truffa, dei malware e degli attacchi informaticiche fanno leva, da un lato, sul tema natalizio e dall’altro sulla corsa allo shopping tipica di queste settimane. Due vendor di sicurezza,Fortinet ed Eset, mettono in guardia dai pericoli più insidiosi, stilando allo stesso tempo alcune raccomandazioni per navigare e fare acquisti su Internet in modo sicuro.
+
+"Si prevede che la spesa per gli acquisti natalizi di quest’anno risulti nettamente superiore allo scorso anno, con oltre la metà di questo aumento attribuibile ai consumatori che utilizzano smartphone", ha dichiaratoRichard Henderson, security strategist dei FortiGuard Labs diFortinet. Il vendor evidenzia in particolare tre pericoli informatici sempre pendenti a prescindere dal periodo dell’anno, ma che sotto Natale si intensificano. Il primo è la classicafrode Atm, eseguita dai cybercriminali installando software infetto dentro al terminale per il ritiro del contante allo scopo di poter poi clonare le carte di credito che vi transitano. Il consiglio è quello di evitare gli sportelli meno frequentati e più isolati, dove è più probabile eseguire manomissioni senza essere notati.
+
+Nemmeno acquistando con bancomat o carta di credito in un negozio fisico si è del tutto al sicuro: i criminali possonoinfettare i Posanche senza raggiungerli fisicamente. Fortinet raccomanda di usare carte di credito, piuttosto che di debito, oppure carte prepagate.
+
+Il terzo rischio particolarmente affine al Natale riguarda loshopping online: anche nei siti di e-commerce, come negli sportelli Atm, il malware progettato per sottrarre informazioni delle carte di credito raggiunge un picco durante il periodo delle feste. Bisogna inoltre prestare attenzione a negozi online che vendono articoli a prezzi troppo bassi per essere veri, e che infatti spesso tentano di smerciare prodotti contraffatti.
+
+Queste, in sintesi, le “pillole di saggezza” di Fortinet per il periodo delle feste:
+•    Effettuare acquisti solo presso quei negozi, online o fisici, che si conoscono e sono affidabili.
+•    Utilizzare una carta di credito anziché una carta di debito per garantire che venga applicata la protezione dalle frodi.
+•    Utilizzare una carta di credito emessa da un istituto finanziario che offre numeri delle carte di credito a uso singolo, limitati nel tempo o virtuali.
+•    Quando si effettuano acquisti online, assicurarsi di trasmettere le informazioni finanziarie tramite Ssl per una connessione sicura.
+•    Scaricare solo le applicazioni per lo shopping da un app store ufficiale ed eliminare l'applicazione se richiede troppe informazioni al momento della registrazione.
+•    Non fare mai clic sul link contenuto in un'e-mail, in particolare se il messaggio sostiene di essere stato inviato dalla propria banca.
+•    Utilizzare un "Live CD" o un browser dedicato quando si effettuano ricerche e attività di shopping online.
+ 
+
+
+
+Anche se non abbiamo intenzione di acquistare alcunché, nelle settimane che circondano il Natale il Web è pieno di insidie, e lo è non solo per chi naviga da Pc, ma anche per chi si connette via smartphone e tablet.Esetmette in guardia dai tanti contenuti “zuccherosi” che invadono caselle di posta e messaggi sotto forma di allegati o link: per esempio, non bisogna fidarsi dibiglietti di auguri, cartoline elettroniche, screensaver o videogiochi natalizida scaricare. Questi contenuti potrebbero contenere codice maligno oppure riportare via link verso siti infetti.
+   
+Chi invece sogna di staccare la spina con un viaggio o un weekend fuori porta, leofferte last minutecircolanti in questo periodo possono rappresentare un pericolo. Come per i siti di e-commerce sospettosamente economici, anche in questo caso vale la regola del buon senso: se una promozione appare eccessivamente scontata, se un prezzo è troppo basso, la cautela è d’obbligo. Oltre a evitare di cliccare su contenuti di cui non si conosce la fonte, sotto Natale più che mai è importante disporre di un antivirus aggiornato.
+ 
+SICUREZZA
+Merkel hackerata, i separatisti ucraini colpiscono la GermaniaSicurezza di Windows 8.1: scintille tra Google e MicrosoftCorea: reattori sicuri al Sud, Internet fantasma al NordEncryption versus spionaggio: ecco dove l’Nsa vince e perdeIl protocollo Ntp è vulnerabile, Apple mette al sicuro OS XNEWS
+Wearable per tutti gli sport, le novità di GarminDa Netgear tante nuove soluzioni per potenziare la reteSamsung in calo del 37%, schiacciata fra Apple e XiaomiSoftware Oracle, servizi Hp: l’alleanza per conquistare i clientiAzure migliora sicurezza, automazione e capacità di calcolo
+ 
+Seguici: ictBroadcast
+Scopri TechnopolisMobile working sinonimo di produttività. Ma le aziende devono muoversi
+Gli impatti dell’Iot? Boom di dispositivi e saving miliardari
+La connettività alimenta il Pil, l’Italia insegue i Paesi forti
+Scopri FuturemagazineAmazon punta al top: Kindle Voyage e Fire HDXWD lancia il suo primo disco portatile wirelessApple Watch e iPhone 6, l’attesa è finitaTop newsPiù letteUltime pubblicateOneDrive: file accessibili anche con l'abbonamento scadutoPalm rinasce con Alcatel e con un nuovo smartphoneCon i Nas Buffalo LinkStation 441 il cloud sta sulla scrivaniaQnap rinnova l’interfaccia dei suoi sistemi Turbo NasSicurezza di Windows 8.1: scintille tra Google e MicrosoftEstensioni per Gmail pericolose: Google corre ai ripariCriminali a caccia di fiducia, il trend del 2015 per McAfeeXiaomi è una startup d'oro, vale 45 miliardi di dollariGoogle, avviso su Chrome contro i siti privi di cifraturaGoogle alla conquista delle automobili con AndroidSmartphone e tablet, doppietta di Archos con supporto 4GWindows Store cresce del 30%, ma Microsoft può fare di piùDistrazioni e mancata produttività: la tecnologia può combatterleDomotica: la sicurezza conta più del risparmioIcann truffato dallo spearphishing, anche gli esperti sbaglianoCorea: reattori sicuri al Sud, Internet fantasma al NordI software nella nuvola varranno 50,8 miliardi di dollari nel 2018Dropbox: l'editing dei file Office è ancora più sempliceEito: Ict europeo a rilento, ma i Pc sono in ripresaOffice per tablet Android: ora la versione “beta” è per tuttiWearable per tutti gli sport, le novità di GarminDa Netgear tante nuove soluzioni per potenziare la reteSamsung in calo del 37%, schiacciata fra Apple e XiaomiSoftware Oracle, servizi Hp: l’alleanza per conquistare i clientiAzure migliora sicurezza, automazione e capacità di calcoloApple pigliatutto: cresce, crea lavoro e aumenta i prezzi delle appNon è tutto oro quello che luccica: a volte sono smartphoneMoster accusa Apple di frode per l’acquisto di Beats, Htc compliceLg Display crea lo schermo per smartphone curvo su due latiToshiba inizia l’anno con mini-Pc ibrido, tablet e docking stationEventiIl prossimo evento:
+24 febbraio 2015,Information Technology Forum 2015presso Atahotel Expo Fiera alle 8:30 - 13:00
+24 febbraio 2015:
+05 marzo 2015:
+06 marzo 2015:
+07 marzo 2015:
+Information Technology Forum 2015presso Atahotel Expo Fiera alle 8:30 - 13:00
+fino al 07 marzo 2015,3D Print Hubpresso Fieramilanocity alle
+Chi siamo
+Contatti
+Privacy
+News
+Scenari
+Spunti di vista
+Focus
+Lavoro
+Eventi
+Storie di Successo
+Canale
+Indigo Communication
+Technopolis
+FutureMagazine
+© 2015 Indigo Communication - P.iva 04275830968Torna in cima

@@ -1,0 +1,120 @@
+package textAnalizer;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.Hashtable;
+import java.util.Map;
+import java.util.Map.Entry;
+import java.util.StringTokenizer;
+
+import org.jfree.text.TextUtilities;
+
+public class TextUtility {
+	
+	public static final int SIZE=512;
+	
+	public static String readFile(String fileName){
+		
+		StringBuffer buffer = new StringBuffer();
+		
+		File file = new File(fileName);
+		byte[] array=new byte[SIZE];
+		FileInputStream fis;
+		int nByteLetti=0;
+		
+		try {
+			 fis = new FileInputStream(file);
+			 
+			 while((nByteLetti = fis.read(array,0,SIZE))!=-1){
+			 
+				 buffer.append( new String(array,0,nByteLetti) );
+			 }
+			 
+			 fis.close();
+			 
+		} catch (Exception e) {
+			
+			buffer.append("exception in readFile ");
+			buffer.append(e.getMessage());
+			buffer.append("\n\r");
+		}
+		
+		
+		return buffer.toString();
+	}
+	
+	public static Hashtable<String, Integer> evaluateFrequency(String text){
+		
+		//Removal of . , 
+		
+		text = text.replace('.', ' ');
+		text = text.replace(',', ' ');
+		
+		Hashtable<String, Integer> frequencies = new Hashtable<String, Integer>();
+		
+		StringTokenizer tokenizer = new StringTokenizer(text);
+		String token;
+		
+		while(tokenizer.hasMoreElements())
+		{
+			token = tokenizer.nextToken();
+			
+			if(frequencies.get(token)!=null)
+			{
+				frequencies.put(token, frequencies.get(token)+1);
+			}
+			else
+			{
+				frequencies.put(token, 1);
+			}
+		}
+		
+		return frequencies;
+	}
+	
+	public static ArrayList<Map.Entry<String, Integer>> sortValue(Hashtable<String, Integer> table)
+	{
+		ArrayList<Map.Entry<String, Integer>> list = new ArrayList(table.entrySet());
+		
+		Collections.sort(list, new Comparator<Map.Entry<String, Integer>>() {
+
+			@Override
+			public int compare(Entry<String, Integer> arg0,
+					Entry<String, Integer> arg1) {
+				// TODO Auto-generated method stub
+				return arg0.getValue().compareTo(arg1.getValue());
+			}
+		});
+		
+		return list;
+	}
+
+	public static ArrayList<Entry<String, Integer>> readFolder(String foldername)
+	{
+		File folder = new File(foldername);
+		StringBuffer sb = new StringBuffer();
+		
+		if(!folder.isDirectory()){
+			System.out.println("the "+foldername+" is not a folder");
+		} //TODO add more "error code"
+		
+		File[] listFiles = folder.listFiles();
+		
+		for (int i = 0; i < listFiles.length; i++) {
+			
+			if(listFiles[i].isFile()){
+				sb.append(readFile(listFiles[i].getName()));
+			}
+		}
+		
+		Hashtable<String, Integer> frequency = evaluateFrequency(sb.toString());
+		
+		ArrayList<Entry<String, Integer>> sortedText = sortValue(frequency);
+		
+		return sortedText;
+	}
+}

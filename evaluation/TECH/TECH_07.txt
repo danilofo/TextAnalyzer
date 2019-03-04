@@ -1,0 +1,56 @@
+ HardwareMobileVideogiochiSicurezzaIT ProManagerResellerRecupero DatiForumVideoBlogShopping Hardware Mobile Videogiochi Fotografia Sicurezza  Banda Larga Cinema Computer Portatili Finanza, Imprese e Mercati Gadget e Nuove Tecnologie Guide e Tutorial Internet & Social Trends Multimedia Scienza e Spazio Software e App Web Stampanti & Scanner TV & Proiettori Compatte Guide Mirrorless Obiettivi Reflex Software & App Videocamere Business Hardware Home Security Minacce Mobile Scenari Software Cloud Computing Communication ICT Security Networking Software Storage e Server Analytics Business Software Informatica e Business Mobility Printing Sicurezza Accordi Marketing Strategie Tecnologie Tendenze Turnover Business Hardware Home Security Minacce Mobile Scenari Software Case, Alimentatori e Dissipatori Hard Disk, SSD e NAS Monitor Networking PC Completi Processori Schede Madre e RAM Schede Video Tastiere e Mouse Console Console Portatili PC Smartphone e Tablet Shopping Hardware Shopping Videogiochi App Smartphone TabletHardwareProcessoriSchede Madre e RAMHard DiskSchede VideoMonitorAlimentatori e CaseTastiere e MousePc CompletiTi trovi in:Home PageHome PageGadget e Nuove TecnologieLe chiamate non cadono più grazie all'ingegno italianodiManolo De Agostini,11 novembre, 201416:18Un dispositivo a onde radio più piccolo, leggero e conveniente potrebbe rivoluzionare le telecomunicazioni.All'Università del Texas (Austin) c'è unitaliano, il professorAndrea Alù, che potrebberivoluzionare il settore delle telecomunicazioni senza fili. Gli studi di Alù sono già stati protagonisti su Tom's Hardware, ma dal "mantello dell'invisibilità" in stile Harry Potter il ricercatore è passato allacreazione di un circolatore per onde radiomolto più piccolo e efficiente delle soluzioni attuali.
+"Il nuovo circolatore ha il potenziale diraddoppiare la banda utile nelle comunicazioni wirelessconsentendo una funzionalità full-duplex, ovvero i dispositivi possono trasmettere e ricevere segnali sulla stessa banda di frequenza nello stesso momento".
+
+Circolatore per onde radio sviluppato da Andrea Alù e il suo team - clicca per ingrandire
+La vera novità è la creazione di uncircolatore non magnetico. "I circolatori magnetici sono in linea di massima capaci di fornire comunicazioni sullo stesso canale di frequenza, ma non sono ampiamente adottati per via delle grandi dimensioni bidirezionali, il peso e i costi associati all'uso di magneti e materiali magnetici", si legge sul sito dell'Università.
+Libero dalla dipendenza degli effetti magnetici, il nuovo circolatore creato da Alùpuò essere non solo più piccolo, ma anche usare materiali meno costosi e più comuni. In questo modo potrà essere integrato in telefoni cellulari e di altri sistemi favorendo download più veloci, meno interruzioni di chiamata e comunicazioni più chiare.
+Finora è stato realizzatoun prototipo che ha dimensioni di 2 centimetri– il 75% inferiori rispetto alla lunghezza d'onda di funzionamento. Il circolatore potrebbeessere ulteriormente rimpicciolito fino a pochi micron, secondo i ricercatori. Il design è basato su materiali di largo uso nei circuiti integrati comeoro, rame e silicio, rendendone più facile l'integrazione sui circuiti stampati dei moderni dispositivi di comunicazione.
+Il dispositivo dei ricercatori funziona mimando il modo in cui i materiali magnetici rompono la simmetria nella trasmissione di onde tra due punti nello spazio, una funzione critica che permette ai circolatori magnetici di indirizzare selettivamente onde radio. Con il nuovo circolatore i ricercatori ottengono lo stesso effetto ma hanno sostituito la polarizzazione magnetica con il movimento dell'onda intorno al dispositivo.
+Un'altra caratteristica unica è cheil nuovo circolatore può essere sintonizzato in tempo reale su una grande gamma di frequenze, un grande vantaggio rispetto ai circolatori tradizionali.
+
+Le differenze tra i circolatori esistenti e quello sviluppato dal team di ricercatori dell'Università del Texas
+"Con questa tecnologia siamo in grado d'incorporare componenti sintonizzabili non reciproci nelle piattaforme mobile", ha affermato il ricercatore Nicholas Estep. "In tal modo apriamo la strada per la comunicazione simultanea a due vie nella stessa banda di frequenza, che può liberare blocchi di bandwidth per un uso più efficace".
+Un uso più efficiente del bandwidth può portare a una riduzione dei costiper le aziende di telecomunicazioni che pagano profumatamente le licenze d'uso delle frequenze. Inoltre dato che il progetto è scalabile e integrabile in un circuito, il circolatore può essere potenzialmente collocato in dispositivi wireless.
+"Prevediamo circolatori con dimensioni di micron integrati nella tecnologia cellulare. Se considerate il traffico cellulare durante eventi come una partita di calcio o un concerto, la nostra tecnologia apre a enormi implicazioni, tra cuiun minor numero di cadute di linea e comunicazioni più chiare", ha aggiunto Estep.
+Il circolatore potrebbe essere utile anche in altri settori. Ad esempio, i circolatori usati per sistemi radar di aerei, navi e satelliti sono estremamente pesanti e di grandi dimensioni. Ridurne la dimensione di potrebbe consentire notevoli risparmi.
+"Il nostro gruppo di ricerca sta lavorando sull'uso di questo concept per proteggere laser e creare circuiti nanofotonici integrati che indirizzino segnali di luce piuttosto che onde radio nelle direzioni desiderate", ha aggiunto Alù. Secondoquanto affermato dal professore all'ANSA"il dispositivo potrebbe essere sul mercato già entro tre anni per i cellulari ed entro un anno per altre applicazioni, come i radar".
+Follow Manolo De Agostini
+@mdeagostiniSegui Tom's Hardware su
+Facebook,Twitter,Google+Ti potrebbe interessare anche: 
+StampaMovimento 5 Stelle chiede lo scorporo Telecom ItaliaLuxottica si affida a JDA per migliorare la supply chainDrone precipita in centro a Biell...Google affitta un campo di aviazi...Obama paladino della neutralità ...Avengers: Age of Ultron, Google d...Un evento Itway VAD sul tema dell...A Milano, l'edizione 2014 dell'In...A Carmen Palumbo il marketing di ...Asimov, Il Ciclo della Fondazione...GTA V PS4 e Xbox One, ecco il tra...Il Trono di Spade: il gioco di Te...Gli acquirenti online restano ost...Smartphone, tablet e notebook tre...Father.IO, l'FPS italiano che si ...Mozilla: Android e iOS sono poco ...Maxwell Apollo 11 Demo, l'allunag...Samsung contro Nvidia: brevetti v...WhatsApp testimone dei tradimenti...Intel SSD DC S3500 fino a 1,6 ter...Notizie dal web Commenti dei lettori (19)1/2avanti  12NickGi11/11/2014 16:44+15 E dopo le doppie spunte blu di Whatsapp, ora non ci sono più scuse neanche per dire "Scusa, ma era caduta la linea, non prendeva più... Adesso sì (dopo un paio d'ore). Mi dispiace tanto tanto!"ceone11/11/2014 16:47+7 scsate ma i "circuiti nanofotonici integrati che indirizzano segnali di luce" non era una delle armi di mazinga Z?
+Comunque complimenti ai ricercatori, soprattutto a chi ha avuto l'acume di trovare un ambito dell'elettronica ancora non adeguatamente sviluppato sul quale fare ricerca.emmeking11/11/2014 17:27+1 Sono sempre felice di scoprire invenzioni scaturite da menti italiane! (anche se poche purtroppo sono valide come questa)
+Ovviamente la maggior parte degli inventori italiani migrano in altri paesi in grado di offrire un miglior supporto alle loro ricerche... e questo mi dispiace molto.
+L'Italia si sta affossando sempre di più ed è anche ovvio che chi può cerca di salvarsi.
+Comunque complimenti ad Andrea Alù! Spero che questa sua "invenzione" venga implementa al più presto.alex_6111/11/2014 17:28+1 Nell'elettronica le radiofrequenze sono state sempre il mio tallone d'achille (o come diceva un partecipante del grande fratello 'tallone da killer'). Con quelle, la fisica non è un optional.vincino7711/11/2014 17:44+7  Originariamente inviata daemmeking
+Sono sempre felice di scoprire invenzioni scaturite da menti italiane! (anche se poche purtroppo sono valide come questa)
+Ovviamente la maggior parte degli inventori italiani migrano in altri paesi in grado di offrire un miglior supporto alle loro ricerche... e questo mi dispiace molto.
+L'Italia si sta affossando sempre di più ed è anche ovvio che chi può cerca di salvarsi.
+Comunque complimenti ad Andrea Alù! Spero che questa sua "invenzione" venga implementa al più presto.
+
+
+Ci sta la fuga dei cervelli dall'Italia... però le zucche vuote rimangono! :pjamaica811/11/2014 17:50+2 ....ma noi abbiamo Franceschini ad implementare le tasse. heemm scusate la tecnologia , a lui poco importa delle MENTI Italiane che fuggono all'estero, basta che si spartono i guadagni qua in Italia....RatInACage11/11/2014 18:01-5 slot car, queste sconosciute..
+io ne ho 2 prese all'epoca a 100.000 lire l'una.. dei mostri! in curva derapavano di potenza, una bella sfida tenerle in pista!Flyb4ck11/11/2014 18:300 Il problema sara' quello di gestire gli eventuali accoppiamenti tra i due segnali. Ora come ora un circolatore non riesce a dividere bene i due segnali, e in ambito tlc questa discriminazione e' fondamentale. Considerate che il segnale che un cellulare riceve e' 1000000000 di volte piu' debole di quello che invia!fra9611/11/2014 18:42-1  Originariamente inviata daFlyb4ck
+Il problema sara' quello di gestire gli eventuali accoppiamenti tra i due segnali. Ora come ora un circolatore non riesce a dividere bene i due segnali, e in ambito tlc questa discriminazione e' fondamentale. Considerate che il segnale che un cellulare riceve e' 1000000000 di volte piu' debole di quello che invia!
+
+
+non è il contrario?
+
+io sapevo che i ponti del telefono avessero parecchi watt e fossero molto sensibili
+
+e che i cellulari avesse pochi mw in invio ma fossero anchessi molto sensibili in ricezioneRatInACage11/11/2014 18:52-1  Originariamente inviata daRatInACage
+slot car, queste sconosciute..
+io ne ho 2 prese all'epoca a 100.000 lire l'una.. dei mostri! in curva derapavano di potenza, una bella sfida tenerle in pista!
+
+oh cacchio, ho sbagliato scheda della news.. my apologize..1/2avanti  12Devi essere collegato scrivere un commento!Accesso utentiNome utente:Password:oppure registrati
+Guarda anche:Gadget e Nuove Tecnologie,ricerca,RepubblicaArticoli più lettiGli articoli e recensioni più lette del 2014I Flop tecnologici del 2014Recensione Lenovo Yoga 3 Pro, l'ultrabook convertibileChromebook: chi lo deve comprare e perchéCultura popolare, miti e bufale alla prova della scienza. Parte II Tom's Hardware nel mondoUSA
+FINLANDIA
+FRANCIA
+GERMANIA
+DANIMARCA
+NORVEGIA
+RUSSIA
+TURCHIA
+UK & IRLANDASegui Tom's Hardware!       Cerca nel sito:CercaInformazioni su Tom's HardwareADVERTISING|PRIVACY|CHI SIAMO|CONTATTACI - REDAZIONE|NEWSLETTER|FEED RSSpowered by
+
+Copyright © 2014 - 3Labs Srl - APurchCompany. Tutti i diritti riservati.
+P.Iva 04146420965 - Testata registrata presso il Tribunale di Milano, nr. 285 del 9/9/2013Clicca per i dettagli

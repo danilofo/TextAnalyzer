@@ -1,0 +1,60 @@
+ HardwareMobileVideogiochiSicurezzaIT ProManagerResellerRecupero DatiForumVideoBlogShopping Hardware Mobile Videogiochi Fotografia Sicurezza  Banda Larga Cinema Computer Portatili Finanza, Imprese e Mercati Gadget e Nuove Tecnologie Guide e Tutorial Internet & Social Trends Multimedia Scienza e Spazio Software e App Web Stampanti & Scanner TV & Proiettori Compatte Guide Mirrorless Obiettivi Reflex Software & App Videocamere Business Hardware Home Security Minacce Mobile Scenari Software Cloud Computing Communication ICT Security Networking Software Storage e Server Analytics Business Software Informatica e Business Mobility Printing Sicurezza Accordi Marketing Strategie Tecnologie Tendenze Turnover Business Hardware Home Security Minacce Mobile Scenari Software Case, Alimentatori e Dissipatori Hard Disk, SSD e NAS Monitor Networking PC Completi Processori Schede Madre e RAM Schede Video Tastiere e Mouse Console Console Portatili PC Smartphone e Tablet Shopping Hardware Shopping Videogiochi App Smartphone TabletHardwareProcessoriSchede Madre e RAMHard DiskSchede VideoMonitorAlimentatori e CaseTastiere e MousePc CompletiTi trovi in:Home PageTom's HardwareProcessoriAMD userà i 20 nanometri solo per alcuni prodotti. Quali?diManolo De Agostini,05 dicembre, 201408:18AMD a tutto tondo sui processi produttivi che userà per i propri prodotti. L'azienda userà i 20 nanometri solo per determinati prodotti, ma non ha rivelato quali. Nel frattempo si rafforza la partnership con GlobalFoundries.Il processo produttivo a28 nanometriè certamente tra i più longevi e usati dall'industria tecnologia, specie quella dei core grafici. Tra le aziende a essersene avvalsa per prima troviamoAMD, che nel dicembre 2011 presentava la prima GPU realizzata con tale processo, Tahiti, a bordo della Radeon HD 7970.
+A distanza di tre anni anche la recente GPU di punta di Nvidia - il GM204 delle schedeGTX 970 e 980- è realizzata a 28 nanometri. Nel corso della diciottesima Credit Suisse Technology Conference il direttore finanziario di AMD, Devinder Kumar, hafatto intendereche l'azienda si avvarrà presto del processo produttivo a20 nanometri solo per alcuni prodotti selezionati.
+
+"Avremo alcuni prodotti a 20 nanometri e poivireremo sui transistor FinFET(16 nanometri 3D, ndr)", ha affermato il dirigente senza svelare quali prodotti saranno realizzati a 20 nanometri. I recentemente annunciati chipCarrizo e Carrizo-Lper l'ambito mobile continueranno a usare i 28 nanometri, quindi secondo voci di corridoioAMD potrebbe avvalersi dei 20 nanometri nella produzione dei SoC per le console next-gene forse qualche APU.
+Nel settore delle schede video l'azienda passerà probabilmente direttamente ai16 nanometri FinFET. Secondo ilDigitimestra le prime aziende ad avvalersi di tale processo ci sarà Nvidia, ed è plausibile che AMD segua la medesima rotta. Non è chiaro se le prossime Radeon - date in arrivo nei primi mesi del 2015 - saranno già a 16 nanometri o ancora a 28 nanometri, ma comunque non dovrebbero essere a 20 nanometri e l'intenzione di un salto dai 28 a 16 nanometri sembra prendere sempre più corpo.
+
+Il fatturato 2015 di AMD per il 50% sarà legato ai mercati "non core", ovvero la produzione di SoC per altri (console next-gen e non solo) 
+Nel frattempo Devinder Kumar hadichiaratoanche cheGlobalFoundries ha incrementato la gamma di prodotti che realizza per AMD. In precedenza la fonderia produceva solo CPU e APU, ma ora si occupa anche di GPU e dei SoC delle console next-gen.
+Ed è forse grazie alle maggiori capacità di GlobalFoundriesche AMD è riuscita a migliorare i propri margini di guadagno dalla produzione dei SoC per le console. Si parla di oltre il 15% con la possibilità di superare il 20 percento. E questo implicherà probabilmente il passaggio a nuovi processi produttivi (i 20 nanometri già citati, probabilmente), oltre che un affinamento della produzione per migliorare le rese.
+Follow Manolo De Agostini
+@mdeagostiniSegui Tom's Hardware su
+Facebook,Twitter,Google+Ti potrebbe interessare anche: 
+StampaYotaPhone 2 in Italia a 749 euro: AMOLED ed e-inkTerminator Genisys, nel trailer italiano T800 contro T1000Mionix NAOS QG, mouse pieno di se...Quel gran casino del progetto fib...HP EliteDisplay S270c, monitor cu...Falla imbarazzante sul sito di Ca...Apple punta sulla realtà virtual...Telecom Italia Lab, siamo pronti ...Fotocamera da record: 100 miliard...iPhone sbanca in Europa, anche gl...Premio Eureka 2014 a Massimo Ingu...Google Tax nel Regno Unito: tutta...Problemi per lo Snapdragon 810, s...Multa a Marcopolo Shop, gli ordin...Con "Passport" Exclusive Network ...LibreOffice per tutti: un ebook g...Audi Prologue: auto piena di OLED...iPhone 6S anche in versione da 4 ...Meno costi e più efficienza con ...Aston Martin DB 10, che bomba la ...Notizie dal web Commenti dei lettori (22)1/3avanti  123SataraX05/12/2014 08:48-23 A questo punto direi che per almeno un anno Amd non fara uscire nulla di eclatante sul fronte schede video, almeno nulla che competera' per consumi e prestazioni con le Gtx 970/980.the-smoker05/12/2014 08:57+2 secondo la logica , dove il consumo è più importante ...
+il mobilealex_6105/12/2014 08:58+4  Originariamente inviata daSataraX
+A questo punto direi che per almeno un anno Amd non fara uscire nulla di eclatante sul fronte schede video, almeno nulla che competera' per consumi e prestazioni con le Gtx 970/980.
+Le schede da te citate sono a 28 nm.Tsaeb05/12/2014 09:02+7 Se fossero le APU sarebbe una grande cosa, finalmente vedremmo APU a 8 core o simili, del resto le console sono tutte APU, e sono le più papabili per i 20nm, ma ci vorrà ancora del tempo prima che si estenda al resto della gamma AMD.Yarik05/12/2014 09:04+1  Originariamente inviata daSataraX
+A questo punto direi che per almeno un anno Amd non fara uscire nulla di eclatante sul fronte schede video, almeno nulla che competera' per consumi e prestazioni con le Gtx 970/980.
+
+Ne dubito, NVIDIA attualmente le sta avanti nella fascia alta, e come se non bastasse ha già annunciato le nuove VGA a 16nm per l'anno prossimo, per cui è assolutamente costretta a fare il passaggio al nuovo processo produttivo anche lei, altrimenti è finitaDarius_8405/12/2014 09:14-1 Sono un po' deluso da questa news... il passaggio diretto dai 28 ai 16 senza passare per i 20 è cosa che si vociferava da tempo, ma la speranza di avere un breve intermezzo in casa AMD nei 20 con la prossima generazione sembrava molto appetitosa... mah, restiamo in attesa di comuniche ufficiale sulla serie 3xx e vediamo cosa succede...tarabas205/12/2014 09:29+4  Originariamente inviata daSataraX
+A questo punto direi che per almeno un anno Amd non fara uscire nulla di eclatante sul fronte schede video, almeno nulla che competera' per consumi e prestazioni con le Gtx 970/980.
+
+
+Non potevi cominciare i commenti su questo articolo con una *** più grossa. Complimenti!elect05/12/2014 10:01+3  Originariamente inviata daSataraX
+A questo punto direi che per almeno un anno Amd non fara uscire nulla di eclatante sul fronte schede video, almeno nulla che competera' per consumi e prestazioni con le Gtx 970/980.
+
+
+http://www.tomshardware.com/news/am d-captain-jack-rumor,28129.htmlN3RO_RE05/12/2014 10:24+3 Nella competizione tra GPU chi arriva prima ai 16nm fà un bel salto di qualità, alcuni dati tecnici presi TSMC:
+
+20nm Vs 28nm
+TSMC's 20nm process technology can provide 30 percent higher speed, 1.9 times the density, or 25 percent less power than its 28nm technology.
+
+16nm Vs 28nm
+TSMC's 16FF+ (FinFET Plus) technology can provide above 65 percent higher speed, around 2 times the density, or 70 percent less power than its 28HPM technology.
+
+16nm Vs 20nm
+Comparing with 20SoC* technology, 16FF+ provides extra 40% higher speed and 60% power saving.
+
+Fonte:http://www.tsmc.com/english/dedicatedFoundry/technology/leading_edge_technology.htm
+
+*SoC:http://it.wikipedia.org/wiki/System-on-a-chipDany_M05/12/2014 10:30+26  Originariamente inviata da"SataraX
+A questo punto direi che per almeno un anno Amd non fara uscire nulla di eclatante sul fronte schede video, almeno nulla che competera' per consumi e prestazioni con le Gtx 970/980.
+
+
+Io proprio non vi capisco. Amd è sul mercato con la serie R7 e R9 da più di un anno(anche di più considerando che tanti sono refresh della generazione precedente) e solo perchè Nvidia ha presentato due schede per prima date tutti AMD per spacciata?
+A parte che le GPU di AMD sono ancora più che competitive visto che che le prestazioni sono vicine a Nvidia ma i prezzi sono più bassi... al massimo si può discutere sui consumi, ma la GTX presentate da Nvidia servono solo per giocare, hanno tolto tutta la parte GPGPU per forza che consumano poco.
+
+Se solo la gente comprasse con un minimo di senso... se solo penso a quanti compravano Intel ai tempi dei Pentium 4 quando AMD era nettamente la scelta migliore.
+E con le schede video uguale... mamma mia1/3avanti  123Devi essere collegato scrivere un commento!Accesso utentiNome utente:Password:oppure registrati
+Guarda anche:Processori,Schede Video,AMD Radeon,AMDArticoli più lettiGuida all'acquisto della Scheda MadreGuida all'acquisto del disco SSDMotherboard X99 per processori Intel Core i7, tre modelli alla provaMemoria DDR4: differenze con DDR3, vantaggi e svantaggiGuida mensile all'acquisto del Monitor Tom's Hardware nel mondoUSA
+FINLANDIA
+FRANCIA
+GERMANIA
+DANIMARCA
+NORVEGIA
+RUSSIA
+TURCHIA
+UK & IRLANDASegui Tom's Hardware!       Cerca nel sito:CercaInformazioni su Tom's HardwareADVERTISING|PRIVACY|CHI SIAMO|CONTATTACI - REDAZIONE|NEWSLETTER|FEED RSSpowered by
+
+Copyright © 2014 - 3Labs Srl - APurchCompany. Tutti i diritti riservati.
+P.Iva 04146420965 - Testata registrata presso il Tribunale di Milano, nr. 285 del 9/9/2013Clicca per i dettagli

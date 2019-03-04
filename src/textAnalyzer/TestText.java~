@@ -1,0 +1,49 @@
+package textAnalizer;
+
+import java.util.ArrayList;
+import java.util.Enumeration;
+import java.util.Hashtable;
+import java.util.Map.Entry;
+
+import org.junit.Test;
+
+public class TestText {
+	
+	@Test
+	public void testReadFile(){
+		
+		String fileLetto = TextUtility.readFile("TestoEsempio.txt");
+		
+		System.out.println(fileLetto);
+	}
+	
+	@Test
+	public void testFrequencies()
+	{
+		Hashtable<String, Integer> frequency = TextUtility.evaluateFrequency(TextUtility.readFile("TestoEsempio.txt"));
+		
+		Enumeration<String> keys = frequency.keys();
+		System.out.println("L'hashtable contiene: ");
+		
+		while(keys.hasMoreElements())
+		{
+			String key = keys.nextElement();
+			System.out.println(key+" "+frequency.get(key));
+		}
+		
+	}
+	
+	@Test
+	public void testSort()
+	{
+		Hashtable<String, Integer> frequency = TextUtility.evaluateFrequency(TextUtility.readFile("TestoEsempio.txt"));
+		
+		ArrayList<Entry<String, Integer>> sortValue = TextUtility.sortValue(frequency);
+		System.out.println("La lista ordinata contiene: ");
+		
+		for (int i = 0; i < sortValue.size(); i++) {
+			
+			System.out.println(sortValue.get(i).getKey()+" "+sortValue.get(i).getValue());
+		}
+	}
+}
